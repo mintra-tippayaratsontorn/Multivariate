@@ -16,7 +16,7 @@
 ใช้สำหรับจัดเก็บไฟล์ใน project ของเรา สามารถเปลี่ยนแปลงไฟล์งานของเราได้ ระบบจะบันทึกไว้ คนอื่นสามารถที่จะเข้ามาดูและแก้ไขงานของเราได้
 
 ### Google Colab
-ใช้เขียน Code Python ผ่าน Google Chrome พิมพ์โค้ดและรันได้เลย โดยมี cell อยู่ 2 แบบคือ Code Cell และ Text Cell
+ใช้เขียน Code Python ผ่าน Google Chrome พิมพ์โค้ดและรันได้เลยมี 2 แบบคือ Code และ Text
 
 ### วิธีเซฟไฟล์จาก Google Colab ลงใน Github
 คลิก File -> เลือก save a copy in Github จากนั้นเลือก Project ของเรา -> ใส่ Commit messege ซึ่งอธิบายว่าคืออะไร -> กด OK
