@@ -11,10 +11,12 @@
 ![suzy's_zoo.png](suzy's_zoo.png)
 
 อธิบายการใช้งาน Github และ Google Colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน Github
-Google Colab สามารถเขียน python ได้บน Browser ได้เลยมีส่วนสำคัญ 2 ส่วน คือ 
-  1.TEXT 
-  2.CODE สามารถจดlactureใน Google Colab ได้ Github ช่วยให้คนสามารถพัฒนา code ด้วยกันได้ วิธีเซฟไฟล์จาก Google Colab ลงใน Github คือ 
-    1.คลิก File 
-    2.เลือก save a copy in Github จากนั้นเลือก Project ของเรา 
-    3.ใส่ Commit messege ซึ่งจะบอกว่า version นี้คืออะไร 
-    4.กด OK
+
+### Github
+ใช้สำหรับจัดเก็บไฟล์ใน project ของเรา สามารถเปลี่ยนแปลงไฟล์งานของเราได้ ระบบจะบันทึกไว้ คนอื่นสามารถที่จะเข้ามาดูและแก้ไขงานของเราได้
+
+### Google Colab
+ใช้เขียน Code Python ผ่าน Google Chrome พิมพ์โค้ดและรันได้เลย โดยมี cell อยู่ 2 แบบคือ Code Cell และ Text Cell
+
+### วิธีเซฟไฟล์จาก Google Colab ลงใน Github
+คลิก File -> เลือก save a copy in Github จากนั้นเลือก Project ของเรา -> ใส่ Commit messege ซึ่งอธิบายว่าคืออะไร -> กด OK
