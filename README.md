@@ -20,3 +20,6 @@
 
 ### วิธีเซฟไฟล์จาก Google Colab ลงใน Github
 คลิก File -> เลือก save a copy in Github จากนั้นเลือก Project ของเรา -> ใส่ Commit messege ซึ่งอธิบายว่าคืออะไร -> กด OK
+
+# ใช้ดู Github ที่ไม่โหลด
+https://nbviewer.jupyter.org/
